@@ -45,15 +45,3 @@ Our examination process serves as a litmus test for the accuracy of our method. 
 ![image-20230908132814820](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230908132814820.png)
 
 ![image-20230908132831372](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230908132831372.png)
-
-## Random 
-
-**Thinning**
-
-![image-20230908133558878](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230908133558878.png)
-
-**Thickening**
-
-![image-20230908133513711](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230908133513711.png)
-
-![image-20230908133616785](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230908133616785.png)
